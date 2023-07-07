@@ -36,12 +36,9 @@ After making the changes on HTML, I push the changes to "changes" branch on my R
 After the terminal show success message, the changes are reflected on GitHub and when you go to the "Pull Request" section, GitHub shows you the code changes between "Main" branch and "Changes" branch.
 If the changes is correct, you can click "Create Pull Request" button on the top pages.
 
-### 3. Pull Request is Success
-![Pull Request Success](Photos/PR.png)
-Once the Pull Request is success, GitHub will redirect you to the detailed pull request page of the changes and you can click "Merge pull request" button if you want to merge the changes.
-
-### 4. Successfully Merge
+### 3. Successfully Merge
 ![Success Merge Message](Photos/merge.png)
+Once the Pull Request is success, GitHub will redirect you to the detailed pull request page of the changes and you can click "Merge pull request" button if you want to merge the changes.
 After user confirm to merge, GitHub will show merge success message and the changes will be reflected on the website.
 
 ## Here is the before and after of the website
